@@ -1,5 +1,5 @@
 {
-  "name": "@oguzgurv2/turkey-tax-offices",
+  "name": "@tr-open-data/tax-offices",
   "version": "2026.0.0",
   "description": "Turkish tax office dataset from GIB (Gelir İdaresi Başkanlığı) — 1091 offices across 81 provinces",
   "main": "index.js",
