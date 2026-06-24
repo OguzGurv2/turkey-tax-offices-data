@@ -1,0 +1,27 @@
+{
+  "name": "@oguzgurv2/turkey-tax-offices",
+  "version": "2026.0.0",
+  "description": "Turkish tax office dataset from GIB (Gelir İdaresi Başkanlığı) — 1091 offices across 81 provinces",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "tax-offices-tr.json"
+  ],
+  "keywords": [
+    "turkey",
+    "tax",
+    "vergi",
+    "vergi-dairesi",
+    "gib",
+    "dataset",
+    "turkish"
+  ],
+  "author": "OguzGurv2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OguzGurv2/turkey-tax-offices-data.git"
+  }
+}
